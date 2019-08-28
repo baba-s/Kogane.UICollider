@@ -1,0 +1,9 @@
+{
+    "name": "com.baba_s.uni_ui_collider",
+    "displayName": "UniUICollider",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "author": "baba_s",
+    "description": "",
+    "dependencies": {}
+}
