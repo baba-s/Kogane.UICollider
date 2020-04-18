@@ -1,9 +1,8 @@
 {
-    "name": "UniUIColliderEditor",
+    "name": "UniUICollider.Editor",
     "references": [
-        "UniUICollider"
+        "GUID:141f3fb76777cb540bcc3ba4eb5ae9c1"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -11,6 +10,8 @@
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": []
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

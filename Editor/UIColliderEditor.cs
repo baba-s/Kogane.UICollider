@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace KoganeUnityLib
+namespace UniUICollider
 {
 	[CanEditMultipleObjects]
 	[CustomEditor( typeof( UICollider ) )]
