@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace UniUICollider
+namespace Kogane
 {
 	public sealed class UICollider : Graphic
 	{
