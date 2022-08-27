@@ -1,5 +1,5 @@
 {
-    "name": "UniUICollider.Editor",
+    "name": "Kogane.UICollider.Editor",
     "references": [
         "GUID:141f3fb76777cb540bcc3ba4eb5ae9c1"
     ],
