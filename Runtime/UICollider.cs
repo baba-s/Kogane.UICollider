@@ -12,7 +12,7 @@ namespace Kogane
 
             canvasRenderer.cullTransparentMesh = true;
 
-            color = new Color( 1, 1, 1, 0 );
+            color = new( 1, 1, 1, 0 );
         }
     }
 }
